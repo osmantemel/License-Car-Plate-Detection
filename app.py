@@ -10,7 +10,6 @@ import av
 from PIL import Image
 
 # Model ve diğer ayarları
-folder_path = "./licenses_plates_imgs_detected/"
 LICENSE_MODEL_DETECTION_DIR = './models/license_plate_detector.pt'
 COCO_MODEL_DIR = "./models/yolov8n.pt"
 
